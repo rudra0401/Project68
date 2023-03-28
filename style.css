@@ -1,0 +1,23 @@
+html{
+    background: linear-gradient(#363a3a 10%, #b6babd 100%);
+}
+body
+{
+    text-align: center;
+    color: bisque;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#videos{
+    background: linear-gradient(#363a3a 10%, #b6babd 100%);
+    border: none; 
+}
+.line {
+    height: 6px;
+    background-color: bisque;
+    width: 70px;
+    margin: 8px auto;
+}
